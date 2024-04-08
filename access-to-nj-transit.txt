@@ -1,0 +1,9 @@
+username: aleksey-kurmanov
+password: 1qaz@WSX0okm(IJN
+
+api-url: http://traindata.njtransit.com:8092/NJTTrainData.asmx
+samples:
+- https://traindata.njtransit.com/NJTTrainData.asmx?op=getStationListXML
+- https://traindata.njtransit.com:8092/NJTTrainData.asmx/getStationListXML?username=aleksey.kurmanov&password=1qaz@WSX0okm(IJN
+
+## ^^ the last URL must have parameters to be URL-encoded
