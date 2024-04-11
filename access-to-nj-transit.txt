@@ -7,3 +7,8 @@ samples:
 - https://traindata.njtransit.com:8092/NJTTrainData.asmx/getStationListXML?username=aleksey.kurmanov&password=1qaz@WSX0okm(IJN
 
 ## ^^ the last URL must have parameters to be URL-encoded
+
+Google password: 1qaz@WSX0okm(IJN
+
+MPHASIS Login: oleksiy.kurmanov@mphasis.com
+MPHASIS Passw: 99UNg3F1Dr00
